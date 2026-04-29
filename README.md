@@ -14,7 +14,7 @@ My interests sit where learned policies meet physical systems: perception-action
 ## Connect
 
 [![Homepage](https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_HOMEPAGE_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=notion&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![CV](https://img.shields.io/badge/CV-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_CV_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](YOUR_SCHOLAR_URL)
@@ -39,8 +39,6 @@ My interests sit where learned policies meet physical systems: perception-action
 ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=flat-square&logo=mathworks&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ### Machine Learning
@@ -81,21 +79,20 @@ My interests sit where learned policies meet physical systems: perception-action
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white)
 
 ## GitHub Dashboard
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PARKBONG&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKBONG&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PARKBONG&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKBONG&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter%20notebook" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=PARKBONG&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<!-- <img src="https://streak-stats.demolab.com?user=PARKBONG&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=PARKBONG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PARKBONG&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PARKBONG&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" /> -->
 
 </div>
 
@@ -116,6 +113,7 @@ My interests sit where learned policies meet physical systems: perception-action
 Optional profile README ideas:
 - Replace YOUR_* placeholders with real links.
 - If the GitHub username is different from PARKBONG, replace every username=PARKBONG and user=PARKBONG.
+- Top languages usually reflects public repositories on the hosted card. Self-hosting with a token is needed for private repository language stats.
 - Add pinned project cards with:
   https://github-readme-stats.vercel.app/api/pin/?username=PARKBONG&repo=REPO_NAME&theme=tokyonight&hide_border=true
 - Add a contribution snake after setting up a GitHub Action:
