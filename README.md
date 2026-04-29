@@ -1,25 +1,11 @@
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=Robotics+Researcher;Robot+Learning+%7C+Manipulation+%7C+3D+Perception;Building+real-world+robot+systems)
-
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=PARKBONG&label=Profile%20views&color=00d4ff&style=flat-square" alt="profile views" />
-
 </div>
 
-<table>
-  <tr>
-    <td width="180" align="center">
-      <img src="https://github.com/PARKBONG.png" width="150" alt="PARKBONG profile photo" />
-    </td>
-    <td>
-      <h2>Hi, I'm PARKBONG</h2>
-      <p>
-        I work around <b>robot learning</b>, <b>robotic manipulation</b>, <b>3D perception</b>, and <b>real-world robot deployment</b>.<br />
-        My interests sit where learned policies meet physical systems: perception-action loops, contact-rich manipulation, demonstration data, sim-to-real, and reliable robot integration.
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/PARKBONG.png" width="150" alt="PARKBONG profile photo" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PARKBONG&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+</p>
 
 ## Connect
 
@@ -39,14 +25,12 @@
 ![RGB-D Perception](https://img.shields.io/badge/RGB--D%20Perception-008B8B?style=for-the-badge)
 ![Visuomotor Policy](https://img.shields.io/badge/Visuomotor%20Policy-5D3FD3?style=for-the-badge)
 
-<table>
-  <tr>
-    <td><img src="assets/showcase/deformable-object-manipulation/01.png" width="180" alt="Deformable object manipulation 01" /></td>
-    <td><img src="assets/showcase/deformable-object-manipulation/02.png" width="180" alt="Deformable object manipulation 02" /></td>
-    <td><img src="assets/showcase/deformable-object-manipulation/03.png" width="180" alt="Deformable object manipulation 03" /></td>
-    <td><img src="assets/showcase/deformable-object-manipulation/04.png" width="180" alt="Deformable object manipulation 04" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/showcase/deformable-object-manipulation/01.png" width="180" alt="Deformable object manipulation 01" />
+  <img src="assets/showcase/deformable-object-manipulation/02.png" width="180" alt="Deformable object manipulation 02" />
+  <img src="assets/showcase/deformable-object-manipulation/03.png" width="180" alt="Deformable object manipulation 03" />
+  <img src="assets/showcase/deformable-object-manipulation/04.png" width="180" alt="Deformable object manipulation 04" />
+</p>
 
 ### Constraint Motion Imitation
 
@@ -56,14 +40,12 @@
 ![Imitation Learning](https://img.shields.io/badge/Imitation%20Learning-512BD4?style=for-the-badge)
 ![Trajectory Learning](https://img.shields.io/badge/Trajectory%20Learning-006666?style=for-the-badge)
 
-<table>
-  <tr>
-    <td><img src="assets/showcase/constraint-motion-imitation/01.png" width="180" alt="Constraint motion imitation 01" /></td>
-    <td><img src="assets/showcase/constraint-motion-imitation/02.png" width="180" alt="Constraint motion imitation 02" /></td>
-    <td><img src="assets/showcase/constraint-motion-imitation/03.png" width="180" alt="Constraint motion imitation 03" /></td>
-    <td><img src="assets/showcase/constraint-motion-imitation/04.png" width="180" alt="Constraint motion imitation 04" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/showcase/constraint-motion-imitation/01.png" width="180" alt="Constraint motion imitation 01" />
+  <img src="assets/showcase/constraint-motion-imitation/02.png" width="180" alt="Constraint motion imitation 02" />
+  <img src="assets/showcase/constraint-motion-imitation/03.png" width="180" alt="Constraint motion imitation 03" />
+  <img src="assets/showcase/constraint-motion-imitation/04.png" width="180" alt="Constraint motion imitation 04" />
+</p>
 
 ## Focus
 
@@ -130,7 +112,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PARKBONG&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKBONG&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter%20notebook" alt="Top languages" />
 
 <!-- <img src="https://streak-stats.demolab.com?user=PARKBONG&theme=tokyonight&hide_border=true" alt="GitHub streak" />
