@@ -15,12 +15,12 @@
 # (2025) Robotic Additive Manufacturing
 
 <p>
-  <kbd>Robotic Additive Manufacturing</kbd>
-  <kbd>Robot Control</kbd>
-  <kbd>Toolpath Planning</kbd>
-  <kbd>Real-Time System</kbd>
-  <kbd>3D Perception</kbd>
-  <kbd>System Integration</kbd>
+  <kbd><b>Robotic Additive Manufacturing</b></kbd>
+  <kbd><b>Robot Control</b></kbd>
+  <kbd><b>Toolpath Planning</b></kbd>
+  <kbd><b>Real-Time System</b></kbd>
+  <kbd><b>3D Perception</b></kbd>
+  <kbd><b>System Integration</b></kbd>
 </p>
 
 <p align="center">
@@ -38,12 +38,12 @@
 # (2024) Constraint Aware Imitation
 
 <p>
-  <kbd>Constraint Aware Imitation</kbd>
-  <kbd>Movement Primitives</kbd>
-  <kbd>Teleoperation</kbd>
-  <kbd>Imitation Learning</kbd>
-  <kbd>Trajectory Learning</kbd>
-  <kbd>Constraint Motion</kbd>
+  <kbd><b>Constraint Aware Imitation</b></kbd>
+  <kbd><b>Movement Primitives</b></kbd>
+  <kbd><b>Teleoperation</b></kbd>
+  <kbd><b>Imitation Learning</b></kbd>
+  <kbd><b>Trajectory Learning</b></kbd>
+  <kbd><b>Constraint Motion</b></kbd>
 </p>
 
 <p align="center">
@@ -61,12 +61,12 @@
 # (2023) Deformable Object Manipulation
 
 <p>
-  <kbd>Deformable Object Manipulation</kbd>
-  <kbd>Contact-Rich Manipulation</kbd>
-  <kbd>RGB-D Perception</kbd>
-  <kbd>Visuomotor Policy</kbd>
-  <kbd>State Estimation</kbd>
-  <kbd>Real Robot Deployment</kbd>
+  <kbd><b>Deformable Object Manipulation</b></kbd>
+  <kbd><b>Contact-Rich Manipulation</b></kbd>
+  <kbd><b>RGB-D Perception</b></kbd>
+  <kbd><b>Visuomotor Policy</b></kbd>
+  <kbd><b>State Estimation</b></kbd>
+  <kbd><b>Real Robot Deployment</b></kbd>
 </p>
 
 <p align="center">
@@ -84,12 +84,12 @@
 # (2022) Human Expert Motion Collection
 
 <p>
-  <kbd>Human Expert Motion Collection</kbd>
-  <kbd>Human Demonstration</kbd>
-  <kbd>Motion Capture</kbd>
-  <kbd>Teleoperation</kbd>
-  <kbd>Data Logging</kbd>
-  <kbd>Dataset Building</kbd>
+  <kbd><b>Human Expert Motion Collection</b></kbd>
+  <kbd><b>Human Demonstration</b></kbd>
+  <kbd><b>Motion Capture</b></kbd>
+  <kbd><b>Teleoperation</b></kbd>
+  <kbd><b>Data Logging</b></kbd>
+  <kbd><b>Dataset Building</b></kbd>
 </p>
 
 <p align="center">
@@ -107,14 +107,14 @@
 # Robotic Dev
 
 <p>
-  <kbd>ROS</kbd>
-  <kbd>ROS2</kbd>
-  <kbd>MoveIt</kbd>
-  <kbd>Robot Control</kbd>
-  <kbd>Motion Planning</kbd>
-  <kbd>System Integration</kbd>
-  <kbd>Real-Time Control</kbd>
-  <kbd>Perception Pipeline</kbd>
+  <kbd><b>ROS</b></kbd>
+  <kbd><b>ROS2</b></kbd>
+  <kbd><b>MoveIt</b></kbd>
+  <kbd><b>Robot Control</b></kbd>
+  <kbd><b>Motion Planning</b></kbd>
+  <kbd><b>System Integration</b></kbd>
+  <kbd><b>Real-Time Control</b></kbd>
+  <kbd><b>Perception Pipeline</b></kbd>
 </p>
 
 <p align="center">
@@ -132,48 +132,48 @@
 # Skills / Tools
 
 <p>
-  <kbd>Python</kbd>
-  <kbd>C++</kbd>
-  <kbd>C</kbd>
-  <kbd>C Sharp</kbd>
-  <kbd>MATLAB</kbd>
-  <kbd>LaTeX</kbd>
-  <kbd>PyTorch</kbd>
-  <kbd>JAX</kbd>
-  <kbd>TensorFlow</kbd>
-  <kbd>NumPy</kbd>
-  <kbd>SciPy</kbd>
-  <kbd>Pandas</kbd>
-  <kbd>scikit-learn</kbd>
-  <kbd>ONNX</kbd>
-  <kbd>Weights & Biases</kbd>
-  <kbd>Ubuntu</kbd>
-  <kbd>Linux</kbd>
-  <kbd>Windows</kbd>
-  <kbd>WSL</kbd>
-  <kbd>VS Code</kbd>
-  <kbd>Git</kbd>
-  <kbd>GitHub Actions</kbd>
-  <kbd>Docker</kbd>
-  <kbd>Conda</kbd>
-  <kbd>CMake</kbd>
-  <kbd>tmux</kbd>
-  <kbd>Zotero</kbd>
+  <kbd><b>Python</b></kbd>
+  <kbd><b>C++</b></kbd>
+  <kbd><b>C</b></kbd>
+  <kbd><b>C Sharp</b></kbd>
+  <kbd><b>MATLAB</b></kbd>
+  <kbd><b>LaTeX</b></kbd>
+  <kbd><b>PyTorch</b></kbd>
+  <kbd><b>JAX</b></kbd>
+  <kbd><b>TensorFlow</b></kbd>
+  <kbd><b>NumPy</b></kbd>
+  <kbd><b>SciPy</b></kbd>
+  <kbd><b>Pandas</b></kbd>
+  <kbd><b>scikit-learn</b></kbd>
+  <kbd><b>ONNX</b></kbd>
+  <kbd><b>Weights & Biases</b></kbd>
+  <kbd><b>Ubuntu</b></kbd>
+  <kbd><b>Linux</b></kbd>
+  <kbd><b>Windows</b></kbd>
+  <kbd><b>WSL</b></kbd>
+  <kbd><b>VS Code</b></kbd>
+  <kbd><b>Git</b></kbd>
+  <kbd><b>GitHub Actions</b></kbd>
+  <kbd><b>Docker</b></kbd>
+  <kbd><b>Conda</b></kbd>
+  <kbd><b>CMake</b></kbd>
+  <kbd><b>tmux</b></kbd>
+  <kbd><b>Zotero</b></kbd>
 </p>
 
 # Research Interest
 
 <p>
-  <kbd>Humanoid</kbd>
-  <kbd>Diffusion Policy</kbd>
-  <kbd>Gaussian Splatting</kbd>
-  <kbd>Vision-Language-Action Models</kbd>
-  <kbd>World Models</kbd>
-  <kbd>Embodied AI</kbd>
-  <kbd>Physical Intelligence</kbd>
-  <kbd>Generalist Robot Policy</kbd>
-  <kbd>Sim-to-Real</kbd>
-  <kbd>Foundation Models for Robotics</kbd>
+  <kbd><b>Humanoid</b></kbd>
+  <kbd><b>Diffusion Policy</b></kbd>
+  <kbd><b>Gaussian Splatting</b></kbd>
+  <kbd><b>Vision-Language-Action Models</b></kbd>
+  <kbd><b>World Models</b></kbd>
+  <kbd><b>Embodied AI</b></kbd>
+  <kbd><b>Physical Intelligence</b></kbd>
+  <kbd><b>Generalist Robot Policy</b></kbd>
+  <kbd><b>Sim-to-Real</b></kbd>
+  <kbd><b>Foundation Models for Robotics</b></kbd>
 </p>
 
 <!--
