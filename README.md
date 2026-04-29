@@ -6,10 +6,20 @@
 
 </div>
 
-## Hi, I'm PARKBONG
-
-I work around **robot learning**, **robotic manipulation**, **3D perception**, and **real-world robot deployment**.  
-My interests sit where learned policies meet physical systems: perception-action loops, contact-rich manipulation, demonstration data, sim-to-real, and reliable robot integration.
+<table>
+  <tr>
+    <td width="180" align="center">
+      <img src="https://github.com/PARKBONG.png" width="150" alt="PARKBONG profile photo" />
+    </td>
+    <td>
+      <h2>Hi, I'm PARKBONG</h2>
+      <p>
+        I work around <b>robot learning</b>, <b>robotic manipulation</b>, <b>3D perception</b>, and <b>real-world robot deployment</b>.<br />
+        My interests sit where learned policies meet physical systems: perception-action loops, contact-rich manipulation, demonstration data, sim-to-real, and reliable robot integration.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
@@ -19,6 +29,41 @@ My interests sit where learned policies meet physical systems: perception-action
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](YOUR_SCHOLAR_URL)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+## Research Gallery
+
+### Deformable Object Manipulation
+
+![Deformable Object Manipulation](https://img.shields.io/badge/Deformable%20Object%20Manipulation-6A5ACD?style=for-the-badge)
+![Contact-Rich Manipulation](https://img.shields.io/badge/Contact--Rich%20Manipulation-7B68EE?style=for-the-badge)
+![RGB-D Perception](https://img.shields.io/badge/RGB--D%20Perception-008B8B?style=for-the-badge)
+![Visuomotor Policy](https://img.shields.io/badge/Visuomotor%20Policy-5D3FD3?style=for-the-badge)
+
+<table>
+  <tr>
+    <td><img src="assets/showcase/deformable-object-manipulation/01.png" width="180" alt="Deformable object manipulation 01" /></td>
+    <td><img src="assets/showcase/deformable-object-manipulation/02.png" width="180" alt="Deformable object manipulation 02" /></td>
+    <td><img src="assets/showcase/deformable-object-manipulation/03.png" width="180" alt="Deformable object manipulation 03" /></td>
+    <td><img src="assets/showcase/deformable-object-manipulation/04.png" width="180" alt="Deformable object manipulation 04" /></td>
+  </tr>
+</table>
+
+### Constraint Motion Imitation
+
+![Constraint Motion Imitation](https://img.shields.io/badge/Constraint%20Motion%20Imitation-000000?style=for-the-badge)
+![Movement Primitives](https://img.shields.io/badge/Movement%20Primitives-1f6feb?style=for-the-badge)
+![Teleoperation](https://img.shields.io/badge/Teleoperation-B31B1B?style=for-the-badge)
+![Imitation Learning](https://img.shields.io/badge/Imitation%20Learning-512BD4?style=for-the-badge)
+![Trajectory Learning](https://img.shields.io/badge/Trajectory%20Learning-006666?style=for-the-badge)
+
+<table>
+  <tr>
+    <td><img src="assets/showcase/constraint-motion-imitation/01.png" width="180" alt="Constraint motion imitation 01" /></td>
+    <td><img src="assets/showcase/constraint-motion-imitation/02.png" width="180" alt="Constraint motion imitation 02" /></td>
+    <td><img src="assets/showcase/constraint-motion-imitation/03.png" width="180" alt="Constraint motion imitation 03" /></td>
+    <td><img src="assets/showcase/constraint-motion-imitation/04.png" width="180" alt="Constraint motion imitation 04" /></td>
+  </tr>
+</table>
 
 ## Focus
 
