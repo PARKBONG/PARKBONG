@@ -4,37 +4,15 @@
 
 # BongGyeong Park(박봉경)
 
-<table align="center">
-  <tr>
-    <td align="right" width="280">
-      <a href="https://BonggyeongPark.com">
-        <img src="https://img.shields.io/badge/Homepage-BonggyeongPark.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage" />
-      </a>
-      <br />
-      <a href="YOUR_LINKEDIN_URL">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" width="180">
-      <img src="https://github.com/PARKBONG.png" width="150" alt="BongGyeong Park profile photo" />
-    </td>
-    <td align="left" width="280">
-      <a href="https://www.kaist.ac.kr/en/">
-        <img src="https://img.shields.io/badge/KAIST-University-003478?style=for-the-badge&logo=academia&logoColor=white" alt="KAIST" />
-      </a>
-      <br />
-      <a href="https://www.kimm.re.kr/eng">
-        <img src="https://img.shields.io/badge/KIMM-Institute-005BAC?style=for-the-badge&logo=googlescholar&logoColor=white" alt="KIMM" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
+  <img src="https://github.com/PARKBONG.png" width="150" alt="BongGyeong Park profile photo" />
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PARKBONG&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
-# (2025) Robotic Additive Manufacturing
+[![Homepage](https://img.shields.io/badge/Homepage-000000?style=flat-square&logo=googlechrome&logoColor=white)](YOUR_HOMEPAGE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
+
+<!-- # (2025) Robotic Additive Manufacturing
 
 <p>
   <kbd><b>Robotic Additive Manufacturing</b></kbd>
@@ -207,7 +185,7 @@ Image slots:
 - assets/showcase/robotic-dev/01.png ... 08.png
 
 Notes:
-- Replace YOUR_LINKEDIN_URL.
+- Replace YOUR_HOMEPAGE_URL and YOUR_LINKEDIN_URL.
 - If the GitHub username is different from PARKBONG, replace every username=PARKBONG.
 - Top languages from the hosted GitHub stats card usually reflects public repositories. Private language stats require self-hosting with a token.
--->
+--> -->
