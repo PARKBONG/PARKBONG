@@ -9,7 +9,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PARKBONG&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
-[![Homepage](https://img.shields.io/badge/Homepage-000000?style=flat-square&logo=googlechrome&logoColor=white)](YOUR_HOMEPAGE_URL)
+[![Homepage](https://img.shields.io/badge/Homepage-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://BonggyeongPark.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 # (2025) Robotic Additive Manufacturing
